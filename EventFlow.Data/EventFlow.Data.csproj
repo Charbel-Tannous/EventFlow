@@ -11,4 +11,9 @@
     <ProjectReference Include="..\EventFlow.Entities\EventFlow.Entities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data-access\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
 </Project>
