@@ -1,0 +1,17 @@
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_flow.Core.deps.json
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_flow.Core.dll
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_flow.Core.pdb
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_Flow.Data.dll
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_Flow.Data.pdb
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_flow.Core.csproj.AssemblyReference.cache
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_flow.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_flow.Core.AssemblyInfoInputs.cache
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_flow.Core.AssemblyInfo.cs
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_flow.Core.csproj.CoreCompileInputs.cache
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_fl.A92E5B76.Up2Date
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_flow.Core.dll
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\refint\Event_flow.Core.dll
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_flow.Core.pdb
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\ref\Event_flow.Core.dll
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_Flow.Entites.dll
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_Flow.Entites.pdb
