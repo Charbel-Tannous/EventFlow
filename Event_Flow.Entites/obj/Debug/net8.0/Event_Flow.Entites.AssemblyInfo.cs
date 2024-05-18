@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Event_Flow.Entites")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a79082aaf3d09c68012e802da30606b659675a87")]
 [assembly: System.Reflection.AssemblyProductAttribute("Event_Flow.Entites")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Event_Flow.Entites")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

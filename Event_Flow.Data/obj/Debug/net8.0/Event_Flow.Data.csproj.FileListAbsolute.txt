@@ -15,3 +15,4 @@ C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Data\obj\Debug\net8.0\ref\Ev
 C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Data\bin\Debug\net8.0\Event_Flow.Entites.dll
 C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Data\bin\Debug\net8.0\Event_Flow.Entites.pdb
 C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Data\obj\Debug\net8.0\Event_Fl.67E5B864.Up2Date
+C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Data\obj\Debug\net8.0\Event_Flow.Data.sourcelink.json

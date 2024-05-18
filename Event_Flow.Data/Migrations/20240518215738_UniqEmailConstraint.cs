@@ -5,7 +5,7 @@
 namespace Event_Flow.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class entitesownfolder : Migration
+    public partial class UniqEmailConstraint : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

@@ -1,20 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace EventFlow.Entities.Entities
 {
     public class Ticket
     {
-        public int TicketId { get; set; }
-        public int UserId { get; set; }
-        public int EventId { get; set; }
+        public Guid TicketId { get; set; } = Guid.NewGuid();
         public string Section { get; set; } = String.Empty;
         public int Price { get; set; }
 
         //navigation properties
+        [ForeignKey("Even")]
+        public Guid EventId { get; set; }
+        [JsonIgnore]
         public Event Event { get; set; }
     }
 }

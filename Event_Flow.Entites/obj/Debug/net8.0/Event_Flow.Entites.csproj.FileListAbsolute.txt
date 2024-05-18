@@ -10,3 +10,4 @@ C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Entites\obj\Debug\net8.0\Eve
 C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Entites\obj\Debug\net8.0\refint\Event_Flow.Entites.dll
 C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Entites\obj\Debug\net8.0\Event_Flow.Entites.pdb
 C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Entites\obj\Debug\net8.0\ref\Event_Flow.Entites.dll
+C:\Users\Charbel\source\repos\Event_Flow\Event_Flow.Entites\obj\Debug\net8.0\Event_Flow.Entites.sourcelink.json

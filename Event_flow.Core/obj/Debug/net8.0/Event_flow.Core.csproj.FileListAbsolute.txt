@@ -15,3 +15,4 @@ C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_
 C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\ref\Event_flow.Core.dll
 C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_Flow.Entites.dll
 C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\bin\Debug\net8.0\Event_Flow.Entites.pdb
+C:\Users\Charbel\source\repos\Event_Flow\Event_flow.Core\obj\Debug\net8.0\Event_flow.Core.sourcelink.json
