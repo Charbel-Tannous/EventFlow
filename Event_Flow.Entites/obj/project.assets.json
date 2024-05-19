@@ -820,11 +820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Entites\\Event_Flow.Entites.csproj",
+      "projectUniqueName": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj",
       "projectName": "Event_Flow.Entites",
-      "projectPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Entites\\Event_Flow.Entites.csproj",
+      "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj",
       "packagesPath": "C:\\Users\\Charbel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Entites\\obj\\",
+      "outputPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Charbel\\AppData\\Roaming\\NuGet\\NuGet.Config",

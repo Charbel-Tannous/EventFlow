@@ -3392,11 +3392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_flow.Core\\Event_flow.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj",
       "projectName": "Event_flow.Core",
-      "projectPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_flow.Core\\Event_flow.Core.csproj",
+      "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj",
       "packagesPath": "C:\\Users\\Charbel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_flow.Core\\obj\\",
+      "outputPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_flow.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Charbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3413,8 +3413,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
-              "projectPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Data\\Event_Flow.Data.csproj"
+            "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
+              "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj"
             }
           }
         }
