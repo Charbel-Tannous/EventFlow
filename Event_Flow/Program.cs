@@ -55,8 +55,24 @@ builder.Services.AddAuthentication(options =>
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin",
+        builder => builder.WithOrigins("http://example.com")
+                          .AllowAnyHeader()
+                          .AllowAnyMethod());
+
+    options.AddPolicy("AllowAllOrigins",
+        builder => builder.AllowAnyOrigin()
+                          .AllowAnyHeader()
+                          .AllowAnyMethod());
+});
+
 
 var app = builder.Build();
+
+app.UseCors("AllowAllOrigins");
+
 
 // middleware
 app.UseMiddleware<AuthMiddleware>();

@@ -4840,19 +4840,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Charbel\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow\\Event_Flow.API.csproj",
+      "projectUniqueName": "D:\\EventFlow.NET\\EventFlow\\Event_Flow\\Event_Flow.API.csproj",
       "projectName": "Event_Flow.API",
-      "projectPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow\\Event_Flow.API.csproj",
-      "packagesPath": "C:\\Users\\Charbel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow\\obj\\",
+      "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow\\Event_Flow.API.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Charbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4866,14 +4866,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_flow.Core\\Event_flow.Core.csproj": {
-              "projectPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_flow.Core\\Event_flow.Core.csproj"
+            "D:\\EventFlow.NET\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj": {
+              "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj"
             },
-            "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
-              "projectPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Data\\Event_Flow.Data.csproj"
+            "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
+              "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj"
             },
-            "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
-              "projectPath": "C:\\Users\\Charbel\\source\\repos\\Event_Flow\\Event_Flow.Entites\\Event_Flow.Entites.csproj"
+            "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
+              "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj"
             }
           }
         }
