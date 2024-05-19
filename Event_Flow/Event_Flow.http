@@ -1,0 +1,6 @@
+@Event_Flow_HostAddress = http://localhost:5254
+
+GET {{Event_Flow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
