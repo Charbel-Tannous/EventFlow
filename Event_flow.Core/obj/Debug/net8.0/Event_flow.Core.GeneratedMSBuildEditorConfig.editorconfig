@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Event_flow.Core
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Charbel\Desktop\test\EventFlow\Event_flow.Core\
+=======
+build_property.ProjectDir = D:\EventFlow.NET\EventFlow\Event_flow.Core\
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

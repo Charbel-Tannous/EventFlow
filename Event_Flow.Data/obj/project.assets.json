@@ -4566,19 +4566,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Charbel\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj",
+
+      "projectUniqueName": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj",
       "projectName": "Event_Flow.Data",
-      "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj",
-      "packagesPath": "C:\\Users\\Charbel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\obj\\",
+      "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\obj\\",
+
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Charbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4592,8 +4594,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
               "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj"
+=======
+            "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
+              "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj"
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
             }
           }
         }

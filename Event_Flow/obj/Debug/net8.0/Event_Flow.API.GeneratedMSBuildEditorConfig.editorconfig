@@ -9,11 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Event_Flow.API
 build_property.RootNamespace = Event_Flow.API
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Charbel\Desktop\test\EventFlow\Event_Flow\
+=======
+build_property.ProjectDir = D:\EventFlow.NET\EventFlow\Event_Flow\
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\Charbel\Desktop\test\EventFlow\Event_Flow
+=======
+build_property.MSBuildProjectDirectory = D:\EventFlow.NET\EventFlow\Event_Flow
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
 build_property._RazorSourceGeneratorDebug = 

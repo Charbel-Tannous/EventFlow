@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow\\Event_Flow.API.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj",
         "packagesPath": "C:\\Users\\Charbel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_flow.Core\\obj\\",
+=======
+    "D:\\EventFlow.NET\\EventFlow\\Event_Flow\\Event_Flow.API.csproj": {}
+  },
+  "projects": {
+    "D:\\EventFlow.NET\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EventFlow.NET\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj",
+        "projectName": "Event_flow.Core",
+        "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\EventFlow.NET\\EventFlow\\Event_flow.Core\\obj\\",
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Charbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +42,13 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
                 "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj"
+=======
+              "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
+                "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj"
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
               }
             }
           }
@@ -74,6 +93,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -82,9 +102,19 @@
         "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj",
         "packagesPath": "C:\\Users\\Charbel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Data\\obj\\",
+=======
+    "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj",
+        "projectName": "Event_Flow.Data",
+        "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\obj\\",
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Charbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +128,13 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
                 "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj"
+=======
+              "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
+                "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj"
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
               }
             }
           }
@@ -170,6 +205,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -178,9 +214,19 @@
         "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj",
         "packagesPath": "C:\\Users\\Charbel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\obj\\",
+=======
+    "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj",
+        "projectName": "Event_Flow.Entites",
+        "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\obj\\",
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Charbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -236,6 +282,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow\\Event_Flow.API.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -244,9 +291,19 @@
         "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow\\Event_Flow.API.csproj",
         "packagesPath": "C:\\Users\\Charbel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow\\obj\\",
+=======
+    "D:\\EventFlow.NET\\EventFlow\\Event_Flow\\Event_Flow.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EventFlow.NET\\EventFlow\\Event_Flow\\Event_Flow.API.csproj",
+        "projectName": "Event_Flow.API",
+        "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow\\Event_Flow.API.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow\\obj\\",
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Charbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -260,6 +317,7 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj": {
                 "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj"
               },
@@ -268,6 +326,16 @@
               },
               "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
                 "projectPath": "C:\\Users\\Charbel\\Desktop\\test\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj"
+=======
+              "D:\\EventFlow.NET\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj": {
+                "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_flow.Core\\Event_flow.Core.csproj"
+              },
+              "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj": {
+                "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Data\\Event_Flow.Data.csproj"
+              },
+              "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj": {
+                "projectPath": "D:\\EventFlow.NET\\EventFlow\\Event_Flow.Entites\\Event_Flow.Entites.csproj"
+>>>>>>> 740082989435b17decdc5ca1f2eb47bf8156065d
               }
             }
           }
